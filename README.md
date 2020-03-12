@@ -11,4 +11,6 @@ bash script로 만든 react 프로젝트 bootstrapper
 4. /src/ 밑에 깨끗하게 정리된 App.tsx, index.tsx 만 남고 모두 제거
 5. 내 입맛에 맞는 eslint, prettier 템플릿 적용
 
-
+## 사용법
+1. alias 설정(생략 가능) `ex) alias jacey-react='~/jacey-react/bash.sh'`
+2. $ jacey-react 프로젝트명 `ex) jacey-react helloworld`
